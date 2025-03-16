@@ -1,5 +1,5 @@
 # HexTool Documentation
-![HexTool Banner](/Media/HexTool_Card.png)
+![HexTool Banner](/Media/HexTool_Documentation_Header.png)
 
 HexTools can be accessed via the Tools menu.
 In Unity 6 and up, it will appear at the end of the list.
@@ -15,8 +15,6 @@ The arrow handle fully respects the Transform settings, aligning to either Cente
 All hexagonal grid snapping is in world-space and relative to the origin of the scene.
 
 https://github.com/user-attachments/assets/728a1144-9081-4afb-bdeb-de5188f6082c
-
-https://github.com/VirtualVisions/HexTool-Documentation/raw/refs/heads/main/Media/HexTool_Showcase.mp4
 
 ## Settings
 
