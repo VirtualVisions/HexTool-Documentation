@@ -1,2 +1,2 @@
-#HexTool Documentation
-![HexTool Banner](/Images/HexTool%20Card.png)
+# HexTool Documentation
+![HexTool Banner](/Images/HexTool_Card.png)
