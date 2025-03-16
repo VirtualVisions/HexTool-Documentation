@@ -14,7 +14,7 @@ With HexTool selected, objects will snap to the visible hexagon grid, while movi
 The arrow handle fully respects the Transform settings, aligning to either Center/Pivot and Global/Local when selected.
 All hexagonal grid snapping is in world-space and relative to the origin of the scene.
 
-![HexTool Showcase](/Media/HexTool_Showcase.mp4)
+https://github.com/VirtualVisions/HexTool-Documentation/blob/main/Media/HexTool_Showcase.mp4
 
 ## Settings
 
