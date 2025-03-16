@@ -16,6 +16,8 @@ All hexagonal grid snapping is in world-space and relative to the origin of the 
 
 <video src=https://github.com/VirtualVisions/HexTool-Documentation/blob/416f46be8d177b18f035ad64ffc5db8cad814958/Media/HexTool_Showcase.mp4 width=180/>;
 
+https://github.com/VirtualVisions/HexTool-Documentation/raw/refs/heads/main/Media/HexTool_Showcase.mp4
+
 ## Settings
 
 HexTool's Settings can be accessed by enabling it from the SceneView Overlays menu.
