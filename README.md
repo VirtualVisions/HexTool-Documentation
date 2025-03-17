@@ -49,4 +49,4 @@ All HexTool settings are project-specific, so the user can have different settin
 | Opacity     | Opacity of the center of the grid.                                                                      |
 | Grid Color  | Color used for displaying the grid within the SceneView.                                                |
 | Direction   | Whether the hexagons should be stacked horizontally with rows, or vertically with columns.              |
-| Orientation | The global direction the grid aligns to.\n3D games will likely use Y, while 2D games will likely use Z. |
+| Orientation | The global direction the grid aligns to. 3D games will likely use Y, while 2D games will likely use Z. |
