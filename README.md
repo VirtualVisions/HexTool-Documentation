@@ -1,7 +1,7 @@
 # HexTool Documentation
 ![HexTool Banner](/Media/HexTool_Documentation_Header.png)
 
-HexTools can be accessed via the Tools menu.
+HexTool can be accessed via the Tools menu.
 In Unity 6 and up, it will appear at the end of the list.
 In Unity 2021 / 2023, it will appear in a dropdown at the bottom of this list.
 
